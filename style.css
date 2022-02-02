@@ -1,0 +1,22 @@
+.header-section {
+    background-color:#c6dbeb;
+}
+.f-ont{
+    font-size: 25px;
+}
+.pp{
+	background-color: #e9ecef;
+}
+.footer-bottom {
+	text-align: center;
+	color: white;
+	background-color: #17a2b8;
+	padding: 20px;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.arman{
+	position: relative;
+	top: 0;
+	left: 400px;
+}
